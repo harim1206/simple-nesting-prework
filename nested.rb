@@ -96,7 +96,7 @@ def adding_matz
 			 :known_for => "Ruby"
 		 }
 
-		 
+
 end
 
 def changing_alan
